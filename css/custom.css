@@ -1,0 +1,20 @@
+body {
+  font-family: monospace;
+  background-color: #270A38;
+  transition: all 0.3s ease;
+  color: #fff;
+}
+
+#foods tr td, #foods tr th {
+  border: 1px solid #ddd;
+  padding: 15px;
+}
+
+#foods tr th {
+  padding: 15px;
+  text-align: left;
+  background-color: #696969;
+  color: white;
+}
+
+/*# sourceMappingURL=custom.css.map */
